@@ -146,7 +146,7 @@ function ProSignUp() {
                           }}
                           placeholder="Avater"
                           type="file"
-                          id="file"
+
                           onChange={uploadImage}
                         />
 
